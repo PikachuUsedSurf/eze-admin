@@ -50,6 +50,7 @@ export const StoreModal = () => {
             isOpen={StoreModal.isOpen}
             onClose={StoreModal.onClose}
         >
+
             <div>
                 <div className="space-y-4 py-4 pb-4"></div>
                 <Form {...form}>
